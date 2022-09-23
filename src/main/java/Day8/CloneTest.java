@@ -10,7 +10,6 @@ package Day8;
 
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
 import java.util.Arrays;
 
 /**
@@ -37,16 +36,15 @@ public class CloneTest {
         System.out.println(Arrays.toString(i1));
 
 
-
     }
 
 
 }
 
 
-class Heihei{
+class Heihei {
 
-    public void greet(){
+    public void greet() {
 
         Timer timer = new Timer(1000, System.out::println);
 
