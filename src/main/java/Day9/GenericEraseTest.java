@@ -35,8 +35,8 @@ public class GenericEraseTest {
             throw new RuntimeException(e);
         }
 
-        Heihei<String>[] heiheis1 = new Heihei<>[6];
-        heiheis1[0] = new Haha<Integer>();
+/*        Heihei<String>[] heiheis1 = new Heihei<>[6];
+        heiheis1[0] = new Haha<Integer>();*/
 
     }
 
