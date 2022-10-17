@@ -1,4 +1,4 @@
-package Day19.Day20;
+package Day20;
 
 /*
  ** @author LiGuanda
